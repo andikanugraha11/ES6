@@ -19,4 +19,16 @@ if (a == 1) {
 }
 console.log(a);
 console.log(b);
+var c = 3;
+if (true) {
+    var c_1 = 10;
+    console.log(c_1);
+}
+console.log(c);
+var d = 1;
+if (true) {
+    var d = 10;
+    console.log(d);
+}
+console.log(d);
 //# sourceMappingURL=tutorial3.js.map

@@ -22,3 +22,17 @@ if(a==1){
 
 console.log(a);
 console.log(b);
+
+let c=3;
+if(true) {
+	let c=10;
+	console.log(c);
+}
+console.log(c);
+
+var d=1;
+if(true){
+	var d =10;
+	console.log(d);
+}
+console.log(d);
