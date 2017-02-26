@@ -8,4 +8,8 @@ function greetPerson(name) {
     console.log(greet);
 }
 greetPerson("Dika");
+var kurang = function (pertama, kedua) {
+    console.log(pertama - kedua);
+};
+kurang(5, 10); // TypeError: kurang is not a function
 //# sourceMappingURL=tutorial2.js.map
