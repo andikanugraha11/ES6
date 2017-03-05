@@ -20,6 +20,11 @@ function createPerson(firstName,lastName,age){
 			}
 }
 
+let dika {
+	"nama depan"	: "andika",
+	"nama belakang"	: "Nugraha"
+}
+
 //-------------------------
 console.log(person);
 console.log(person.firstName);
@@ -31,3 +36,5 @@ console.log(test.firstName);
 console.log(test.lastName);
 console.log(test.fullName);
 console.log(test.isSenior());
+
+console.log(dika);
